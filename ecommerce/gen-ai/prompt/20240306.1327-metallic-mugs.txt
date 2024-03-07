@@ -1,0 +1,8 @@
+source: https://huggingface.co/spaces/stabilityai/stable-diffusion
+
+model: stabilityai/stable-diffusion-2-1
+
+prompt: artisan pottery mugs in abstract shapes, cream white engobe glaze with accent shapes in terracotta and metallic golden colors. objects in full view. on a white background with dramatic lighting, museum image for use as product image on ecommerce website
+
+negative prompt: close up, zoomed in
+

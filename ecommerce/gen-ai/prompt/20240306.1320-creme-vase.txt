@@ -1,0 +1,8 @@
+source: https://huggingface.co/spaces/stabilityai/stable-diffusion
+
+model: stabilityai/stable-diffusion-2-1
+
+prompt: artisan pottery vase in abstract shape, cream off white glaze on ribbed clay. object in full view. on a white background with dramatic lighting, museum image for use as product image on ecommerce website
+
+negative prompt: close up, zoomed in
+

@@ -1,0 +1,8 @@
+source: https://huggingface.co/spaces/stabilityai/stable-diffusion
+
+model: stabilityai/stable-diffusion-2-1
+
+prompt: artisan pottery serving tray and salad bowl. cream-colored, matte stoneware with fine, linear cerulean and gold accents. objects are centered, in frame, wide view. white background, dramatic lighting, museum display.
+
+negative prompt: cropped. off-center. near edge.
+

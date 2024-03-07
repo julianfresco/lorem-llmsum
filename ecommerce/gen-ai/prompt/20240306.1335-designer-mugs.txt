@@ -1,0 +1,8 @@
+source: https://huggingface.co/spaces/stabilityai/stable-diffusion
+
+model: stabilityai/stable-diffusion-2-1
+
+prompt: artisan pottery mugs in abstract shapes, grey engobe glaze with accent shapes in aquamarine and metallic colors. objects in full view. on a white background with dramatic lighting. museum image. main product image for ecommerce website
+
+negative prompt: close up, zoomed in
+

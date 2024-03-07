@@ -1,0 +1,8 @@
+source: https://huggingface.co/spaces/stabilityai/stable-diffusion
+
+model: stabilityai/stable-diffusion-2-1
+
+prompt: artisan pottery dinnerware set of large and small plates, and bowls. cream-colored matte stoneware with fine, linear coral-colored accents. 4 items. objects are centered, in frame, wide view. white background, dramatic lighting, museum display. product photo for ecommerce store.
+
+negative prompt: cropped. off-center. near edge.
+

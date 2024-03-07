@@ -1,0 +1,5 @@
+source: https://huggingface.co/runwayml/stable-diffusion-v1-5?text=artisan+pottery+vase+in+unusual%2C+unbalanced+shape%2C+red+glaze+on+grey+clay%2C+white+background%2C+dramatic+lighting%2C+museum+image
+
+model: runwayml/stable-diffusion-v1-5
+
+prompt: artisan pottery vase in unusual, unbalanced shape, red glaze on grey clay, white background, dramatic lighting, museum image

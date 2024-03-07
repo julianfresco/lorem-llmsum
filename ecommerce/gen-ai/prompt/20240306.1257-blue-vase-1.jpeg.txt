@@ -1,0 +1,5 @@
+source: https://huggingface.co/runwayml/stable-diffusion-v1-5?text=artisan+pottery+vase+in+long%2C+unbalanced+shape%2C+royal+blue+glaze+on+turquoise+clay%2C+white+background%2C+dramatic+lighting%2C+museum+image 
+
+model: runwayml/stable-diffusion-v1-5
+
+prompt: artisan pottery vase in long, unbalanced shape, royal blue glaze on turquoise clay, white background, dramatic lighting, museum image

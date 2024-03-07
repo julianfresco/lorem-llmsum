@@ -1,0 +1,9 @@
+source: https://huggingface.co/spaces/stabilityai/stable-diffusion
+
+model: stabilityai/stable-diffusion-2-1
+
+prompt: artisan pottery mug set. abstract shapes. cream and yellow engobe glazed clay with minor accents in blue metallic colors. items centered, in frame, in full view, wide field of view. on a white background with dramatic lighting. museum image. main product image. ecommerce website
+
+negative prompt: cropped. off-center. near edge.
+
+
