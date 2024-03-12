@@ -6,7 +6,7 @@ The ecommerce demo database features tables for products, accounts, sessions, ca
 
 :link: [View schema on dbdiagram.io](https://dbdiagram.io/d/ecommerce-demo-65eaf17fb1f3d4062c72cba2)
 
-> TODO: add schema image
+![image of postgres starting schema - generated on dbdiagram.io](./schema/ecommerce-demo-pg.svg)
 
 Run local db using Docker:
 
