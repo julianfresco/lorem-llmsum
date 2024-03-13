@@ -21,6 +21,17 @@ docker-compose -f ecommerce/amazon/docker-compose.yml down --volumes
 ```
 
 
+To use psql on host:
+
+```
+# open shell in host:
+docker exec -it ecommerce-pg bash
+
+# next, from the host, run psql:
+psql -h localhost -U ecommerce
+```
+
+
 ### Source info
 Kaggle dataset: [Amazon Products Dataset 2023 (1.4M Products)](https://www.kaggle.com/datasets/asaniczka/amazon-products-dataset-2023-1-4m-products)
 
