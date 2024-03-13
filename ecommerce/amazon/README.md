@@ -11,8 +11,15 @@ The ecommerce demo database features tables for products, accounts, sessions, ca
 Run local db using Docker:
 
 ```
-# TODO: add local db devolper instructions
+docker compose -f ecommerce/amazon/docker-compose.yml up
 ```
+
+Clean up local docker image:
+
+```
+docker-compose -f ecommerce/amazon/docker-compose.yml down --volumes
+```
+
 
 ### Source info
 Kaggle dataset: [Amazon Products Dataset 2023 (1.4M Products)](https://www.kaggle.com/datasets/asaniczka/amazon-products-dataset-2023-1-4m-products)
