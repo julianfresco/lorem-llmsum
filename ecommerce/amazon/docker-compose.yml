@@ -1,0 +1,12 @@
+services:
+
+  ecommerce-pg:
+    image: postgres:latest
+    container_name: ecommerce-pg
+    restart: always
+    environment:
+      POSTGRES_USER: ecommerce
+      POSTGRES_DB: ecommerce
+      POSTGRES_PASSWORD: ecommerce
+    volumes:
+      - ./schema/ecommerce-demo-pg.sql:/docker-entrypoint-initdb.d/init.sql
