@@ -8,5 +8,7 @@ services:
       POSTGRES_USER: ecommerce
       POSTGRES_DB: ecommerce
       POSTGRES_PASSWORD: ecommerce
+    ports:
+      - 5432:5432
     volumes:
       - ./schema/ecommerce-demo-pg.sql:/docker-entrypoint-initdb.d/init.sql
