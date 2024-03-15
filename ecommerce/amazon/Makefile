@@ -12,13 +12,3 @@ seed:
 	echo "make seed: TODO\!"
 refresh:
 	make stop delete create start seed
-
-
-# # docker-compose.yml variant:
-# # won't use docker compose, but leaving here for ref:
-# create:
-# 	docker compose build
-# dbstart:
-# 	docker compose up
-# dbstop:
-# 	docker compose down
